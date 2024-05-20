@@ -95,7 +95,6 @@ Ar4XzwkZ3fClYyItc1jMoBIk
 
 JSON_RPC_API_URL = "https://slb.medv.ru/api/v2/"
 
-#CA_CERT_PATH = '/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/certifi/cacert.pem'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
