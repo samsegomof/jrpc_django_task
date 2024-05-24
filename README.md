@@ -23,8 +23,8 @@
 1. **Клонирование репозитория**:
 
     ```bash
-    git clone https://github.com/samsegomov/django-jsonrpc-project.git
-    cd django-jsonrpc-project
+    git https://github.com/samsegomof/jrpc_django_task.git
+    cd test_project
     ```
 
 2. **Установка зависимостей с помощью Poetry**:
